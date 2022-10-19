@@ -7,8 +7,5 @@ hello gaungzhou!
 hello gaungzhou!
 hello gaungzhou!
 hello gaungzhou!
-<<<<<<< HEAD
 hello gaungzhou! master test
-=======
 hello gaungzhou! hot-fix test
->>>>>>> hot-fix
